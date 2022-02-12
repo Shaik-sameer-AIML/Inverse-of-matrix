@@ -31,6 +31,7 @@ print(inverse)
 ```
 
 ## OUTPUT:
+![output](https://github.com/Shaik-sameer-AIML/Inverse-of-matrix/blob/main/inverse.JPG?raw=true)
 
 
 ## RESULT:
